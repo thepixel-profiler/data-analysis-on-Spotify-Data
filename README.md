@@ -68,6 +68,8 @@ The analysis is contained within the `spotify_data_analysis.ipynb` Jupyter Noteb
 The notebook generates three main visualizations:
 
   * **Correlation Heatmap**: This shows the relationships between various numerical song features.
+    <Figure size 1200x1000 with 2 Axes><img width="1006" height="923" alt="image" src="https://github.com/user-attachments/assets/d60bdea0-fcca-448b-87e5-c9f2df1f6c63" />
+
   * **Top 10 Genres by Average Popularity**: A bar plot displaying the genres with the highest average popularity scores.
   * **Top 10 K-pop Artists by Average Popularity**: A bar plot highlighting the most popular artists within the K-pop genre.
 
