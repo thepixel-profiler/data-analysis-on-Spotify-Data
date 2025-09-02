@@ -71,6 +71,10 @@ The notebook generates three main visualizations:
     <Figure size 1200x1000 with 2 Axes><img width="1006" height="923" alt="image" src="https://github.com/user-attachments/assets/d60bdea0-fcca-448b-87e5-c9f2df1f6c63" />
 
   * **Top 10 Genres by Average Popularity**: A bar plot displaying the genres with the highest average popularity scores.
+    <Figure size 1200x600 with 1 Axes><img width="1044" height="545" alt="image" src="https://github.com/user-attachments/assets/d088819d-3fbf-4cf8-94fa-ea3ad9faf0c8" />
+
   * **Top 10 K-pop Artists by Average Popularity**: A bar plot highlighting the most popular artists within the K-pop genre.
+    <Figure size 1200x600 with 1 Axes><img width="1270" height="545" alt="image" src="https://github.com/user-attachments/assets/2ec5150f-ad91-45b1-bf2f-35b0ae34e48a" />
+
 
 This project provides a clear, step-by-step example of how to perform exploratory data analysis on a musical dataset.
