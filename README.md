@@ -1,6 +1,3 @@
-# data-analysis-on-Spotify-Data
-Data Analysis and Visualization on Spotify Dataset, using Excel, Python, and Google Looker Studio.
-
 # Spotify Data Analysis
 
 This project analyzes a dataset of Spotify songs to understand various song attributes and identify trends in popularity. The analysis is performed using Python in a Jupyter Notebook environment, leveraging libraries like pandas, matplotlib, and seaborn.
@@ -76,5 +73,7 @@ The notebook generates three main visualizations:
   * **Top 10 K-pop Artists by Average Popularity**: A bar plot highlighting the most popular artists within the K-pop genre.
     <Figure size 1200x600 with 1 Axes><img width="1270" height="545" alt="image" src="https://github.com/user-attachments/assets/2ec5150f-ad91-45b1-bf2f-35b0ae34e48a" />
 
+The final Dashboard created using Google Looker Studio:
+<img width="1616" height="1204" alt="Screenshot 2025-09-05 173535" src="https://github.com/user-attachments/assets/d249d44c-73be-4192-b884-39d7f0046d40" />
 
 This project provides a clear, step-by-step example of how to perform exploratory data analysis on a musical dataset.
